@@ -19,8 +19,3 @@ You should see "Rhythmbox
 Simple remote to handle Rhythmbox main function." on the page "Remotes".
 
 Then on your phone, go to "Get More" and "Media", then add the remote.
-
-
-## Other
-
-Get Gnome MPV on [Gnome MPV website](https://gnome-mpv.github.io)
