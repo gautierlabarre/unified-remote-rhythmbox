@@ -12,7 +12,7 @@ function showCurrentSong (timer)
 	layout.currentSong.text = os.script("rhythmbox-client --print-playing");
 
 	tid = tmr.timeout(function ()
-		layout.currentSong.text = "Appuyez pour afficher le titre..."
+		layout.currentSong.text = "Tap here to display artist and song title..."
 	end, timer);
 end
 

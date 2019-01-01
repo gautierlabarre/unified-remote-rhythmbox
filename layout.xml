@@ -2,7 +2,7 @@
 <layout>
 	<grid>
     <row lightcolor="#cccccc" darkcolor="#2e3a50">
-      <button text="Appuyez pour afficher le titre" onTap="currentSong" id="currentSong" />
+      <button text="Tap here to display artist and song title" onTap="currentSong" id="currentSong" />
     </row>
 
     <row lightcolor="#cccccc" darkcolor="#161e2c">
